@@ -22,3 +22,4 @@ int main(){
 	}
 	cout<<"Suma: "<<suma; //suma po wykonaniu pętli
 }
+//koniec programu
