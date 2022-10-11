@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Program obliczający sumę liczb podzielnych przez 5 z zakresu podanego przez użytkownika //
+//Program obliczający sumę liczb podzielnych przez 5 z zakresu podanego przez użytkownika
 int main(){
 	int x,poczatek,koniec,suma;
 	cout<<"Podaj poczatek zakresu";
