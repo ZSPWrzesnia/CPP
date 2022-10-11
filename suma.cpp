@@ -20,5 +20,5 @@ int main(){
 	}
 	//else x++;
 	}
-	cout<<"Suma: "<<suma;
+	cout<<"Suma: "<<suma; //suma po wykoannaiu pętli
 }
